@@ -4,7 +4,7 @@ Python-based computer vision modules using OpenCV and MediaPipe for interactive 
 
 ---
 
-##📷 Face Detection with Label Overlay
+## Face Detection with Label Overlay
 
 ### Overview
 This module detects faces via webcam using OpenCV’s Haar Cascade and displays a pink rectangle with a custom label above each detected face.
